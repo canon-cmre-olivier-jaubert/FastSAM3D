@@ -6,6 +6,7 @@ work_dir/*
 __pycache__/*
 *.pyc
 
+notebook_fastsam.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
